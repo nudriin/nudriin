@@ -74,20 +74,14 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nudriin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nudriin&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nudriin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
+<table border="0" align="center">
+  <tr border="0">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nudriin&show_icons=true&theme=blueberry&hide_border=true&show_icons=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nudriin&theme=blueberry&hide_border=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudriin&langs_count=6&theme=blueberry&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
