@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f0cf88201477357.66762b8001d57.png)
+![MasterHead](https://raw.githubusercontent.com/nudriin/nudriin/main/nudrin_banner.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nurdin-%E2%A0%80-a9b862284/" target="_blank">
