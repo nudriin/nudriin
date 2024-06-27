@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/userupload/15028999/file/original-68aa470bf0643d2d9a71962db7128373.jpg?resize=3000x1128"  />
-</div>
-
-###
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f0cf88201477357.66762b8001d57.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nurdin-%E2%A0%80-a9b862284/" target="_blank">
