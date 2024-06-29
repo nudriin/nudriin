@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">A passionate backend developer<br><br>- 📚 I'm currently learning Backend Development</p>
+<p align="left">A passionate backend developer<br><br>- 📚 I'm currently learning Backend Development and Microservices</p>
 
 ###
 
