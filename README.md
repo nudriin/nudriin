@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/nudriin/nudriin/main/nudrin_banner.png)
+![MasterHead](https://raw.githubusercontent.com/nudriin/nudriin/main/PORT.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nurdin-%E2%A0%80-a9b862284/" target="_blank">
